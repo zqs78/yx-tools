@@ -232,7 +232,7 @@ CLOUDFLARE_IPV6_URL = "https://www.cloudflare.com/ips-v6/"
 CLOUDFLARE_IPV6_FILE = "Cloudflare_ipv6.txt"
 
 # 默认测速URL
-DEFAULT_SPEEDTEST_URL = "https://speed.cloudflare.com/__down?measId=&bytes=200000000"
+DEFAULT_SPEEDTEST_URL = "https://speed.cloudflare.com/__down?bytes=999999999"
 
 # Cloudflare IPv6 地址段（内置）
 # 数据来源：https://www.cloudflare.com/ips-v6/
